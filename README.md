@@ -46,13 +46,13 @@ Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ### Movies vs TV Shows
 
-![Movies vs TV Shows](images/movies_vs_tvshows.png)
+![Movies vs TV Shows](screenshots/movies_vs_tvshows.png)
 
 
 
 ### Top 10 Countries
 
-![Top Countries](images/top_countries.png)
+![Top Countries](screenshots/top_countries.png)
 
 ## What I Learned
 
